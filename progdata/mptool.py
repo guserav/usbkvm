@@ -5,6 +5,12 @@ import subprocess
 from termcolor import cprint
 import sys
 import itertools
+import argparse
+
+parser = argparse.ArgumentParser()
+
+parser.add_argument("-b", "--skip-boot", action="store_true" , dest="no_boot_loader")
+args = parser.parse_args()
 
 sys.path.append("../app/build")
 import usbkvm_py as usbkvm
@@ -64,7 +70,7 @@ while True:
 		print("connect only one MS2109")
 		time.sleep(1)
 
-if count_hid() != 1 :
+if count_hid() != 1 and not args.no_boot_loader :
 	while True:
 		ndevs = count_bootloader()
 		if ndevs == 1 :
@@ -128,7 +134,7 @@ while True :
 	mcu.set_led(usbkvm.Led.ALL, usbkvm.Led.NONE)
 
 	led_result = input("Did LEDs blink in sequence [Y]?")
-	if led_result.lower() in ("Y", "") :
+	if led_result.upper() in ("Y", "") :
 		break
 
 mcu.set_led(usbkvm.Led.NONE, usbkvm.Led.NONE)
