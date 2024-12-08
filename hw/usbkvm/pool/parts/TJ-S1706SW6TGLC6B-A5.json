@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "TJ-S1706SW6TGLC6B-A5"
+    ],
+    "datasheet": [
+        false,
+        "https://www.lcsc.com/datasheet/lcsc_datasheet_1810181831_TOGIALED-TJ-S1706SW6TGLC6B-A5_C273617.pdf"
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "f061691a-7954-4797-9529-dba6527d8f4f",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "togialed"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "cf2728a3-f1ec-4755-96d0-4904e988dbab",
+    "pad_map": {
+        "82628abb-a350-42c9-9184-466d20dc28a2": {
+            "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
+            "pin": "f3a0ce45-6d5e-453b-9649-33baf57cc7b7"
+        },
+        "bc04f632-233c-4b3a-aa57-bc521b49dd91": {
+            "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
+            "pin": "3c305ca9-14d3-40b4-a365-8938959c043e"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "9c1ae1da-b44d-4e33-97f8-abde7c4fa65c",
+    "value": [
+        false,
+        ""
+    ]
+}

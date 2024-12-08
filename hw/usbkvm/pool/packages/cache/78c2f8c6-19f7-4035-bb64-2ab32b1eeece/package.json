@@ -1,7 +1,86 @@
 {
     "arcs": {},
     "default_model": "8aca131e-9b0d-457f-9bcb-d7b77d6d0de6",
-    "dimensions": {},
+    "dimensions": {
+        "39370e25-6b04-43f9-aae4-76bcf425667a": {
+            "label_distance": 760000,
+            "label_size": 300000,
+            "mode": "distance",
+            "p0": [
+                3450000,
+                2750000
+            ],
+            "p1": [
+                3450000,
+                2250000
+            ]
+        },
+        "947cab94-e669-4b25-8970-94c94115d1af": {
+            "label_distance": 1440000,
+            "label_size": 300000,
+            "mode": "horizontal",
+            "p0": [
+                -2650000,
+                2650000
+            ],
+            "p1": [
+                -2750000,
+                2650000
+            ]
+        },
+        "9fe3a1a0-2641-4289-a85c-c69ba80b214f": {
+            "label_distance": -730000,
+            "label_size": 300000,
+            "mode": "distance",
+            "p0": [
+                -2750000,
+                -3450000
+            ],
+            "p1": [
+                2750000,
+                -3450000
+            ]
+        },
+        "ba65aa70-6cb8-40f3-aebd-a0c559a0b309": {
+            "label_distance": 450000,
+            "label_size": 300000,
+            "mode": "horizontal",
+            "p0": [
+                2620000,
+                3700000
+            ],
+            "p1": [
+                2870000,
+                3700000
+            ]
+        },
+        "c6764a07-34e2-486a-af96-7df2cb7bdee1": {
+            "label_distance": 2010000,
+            "label_size": 300000,
+            "mode": "vertical",
+            "p0": [
+                2760000,
+                3850000
+            ],
+            "p1": [
+                2760000,
+                3050000
+            ]
+        },
+        "c792bcd7-25da-4e86-ab0a-832a980cdfc4": {
+            "label_distance": -1630000,
+            "label_size": 300000,
+            "mode": "distance",
+            "p0": [
+                -2650000,
+                2650000
+            ],
+            "p1": [
+                -2650000,
+                -2650000
+            ]
+        }
+    },
     "grid_settings": {
         "current": {
             "mode": "square",
@@ -14,7 +93,7 @@
                 1000000,
                 1000000
             ],
-            "spacing_square": 1000000
+            "spacing_square": 10000
         },
         "grids": {}
     },

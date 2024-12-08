@@ -1,7 +1,76 @@
 {
     "arcs": {},
     "default_model": "b99785a3-c0da-4658-969d-6287cec3be05",
-    "dimensions": {},
+    "dimensions": {
+        "1fa56851-6658-4bbd-b322-a02292bad629": {
+            "label_distance": 1245000,
+            "label_size": 600000,
+            "mode": "distance",
+            "p0": [
+                -2700000,
+                1905000
+            ],
+            "p1": [
+                2700000,
+                1905000
+            ]
+        },
+        "5037ff9a-7395-4155-8925-e05177af9038": {
+            "label_distance": 1550000,
+            "label_size": 600000,
+            "mode": "distance",
+            "p0": [
+                2700000,
+                1905000
+            ],
+            "p1": [
+                2700000,
+                635000
+            ]
+        },
+        "b315c82c-1352-474b-9042-2286698f0ab9": {
+            "label_distance": -890000,
+            "label_size": 600000,
+            "mode": "horizontal",
+            "p0": [
+                -3450000,
+                -2200000
+            ],
+            "p1": [
+                -1950000,
+                -2200000
+            ]
+        },
+        "f9b60ab1-6d27-447b-93ab-a92334cf309c": {
+            "label_distance": -670000,
+            "label_size": 600000,
+            "mode": "distance",
+            "p0": [
+                -3400000,
+                2200000
+            ],
+            "p1": [
+                -3400000,
+                1600000
+            ]
+        }
+    },
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 10000
+        },
+        "grids": {}
+    },
     "junctions": {
         "58d852a2-f5bf-46bf-b5b7-293944abed36": {
             "position": [
@@ -137,7 +206,7 @@
                 "pad_width": 600000
             },
             "placement": {
-                "angle": 49152,
+                "angle": 16384,
                 "mirror": false,
                 "shift": [
                     -2700000,
