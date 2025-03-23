@@ -377,39 +377,6 @@
             "tag": "59f4a7ba-7cf9-466f-9a26-dcfe34857f99",
             "value": ""
         },
-        "18dc49a6-bb51-45ad-8fda-6e8994e36af1": {
-            "alt_pins": {},
-            "connections": {},
-            "entity": "e738fcf2-bf36-46b2-8288-82f43aabca8a",
-            "group": "00000000-0000-0000-0000-000000000000",
-            "part": "3c4eeb64-3675-451c-a659-3f592c36738e",
-            "pin_names": {},
-            "refdes": "MP?",
-            "tag": "56fe26db-a545-4a31-9d2e-260f3d61748e",
-            "value": ""
-        },
-        "19882ce6-db50-4194-b847-a1abc154daa0": {
-            "alt_pins": {},
-            "connections": {},
-            "entity": "e738fcf2-bf36-46b2-8288-82f43aabca8a",
-            "group": "00000000-0000-0000-0000-000000000000",
-            "part": "3c4eeb64-3675-451c-a659-3f592c36738e",
-            "pin_names": {},
-            "refdes": "MP?",
-            "tag": "56fe26db-a545-4a31-9d2e-260f3d61748e",
-            "value": ""
-        },
-        "1a0d6144-a517-46e1-b273-37d29639712a": {
-            "alt_pins": {},
-            "connections": {},
-            "entity": "e738fcf2-bf36-46b2-8288-82f43aabca8a",
-            "group": "00000000-0000-0000-0000-000000000000",
-            "part": "3c4eeb64-3675-451c-a659-3f592c36738e",
-            "pin_names": {},
-            "refdes": "MP?",
-            "tag": "56fe26db-a545-4a31-9d2e-260f3d61748e",
-            "value": ""
-        },
         "1c8fdeff-613e-4864-8318-ea4730b8dd2e": {
             "alt_pins": {},
             "connections": {
@@ -1775,17 +1742,6 @@
             "pin_names": {},
             "refdes": "R39",
             "tag": "2b389793-87fd-49ba-b306-86b967ea39e2",
-            "value": ""
-        },
-        "79f39947-fc73-4e52-8989-9fa62d4bd3ca": {
-            "alt_pins": {},
-            "connections": {},
-            "entity": "e738fcf2-bf36-46b2-8288-82f43aabca8a",
-            "group": "00000000-0000-0000-0000-000000000000",
-            "part": "3c4eeb64-3675-451c-a659-3f592c36738e",
-            "pin_names": {},
-            "refdes": "MP?",
-            "tag": "56fe26db-a545-4a31-9d2e-260f3d61748e",
             "value": ""
         },
         "7a6b2887-913a-4a4b-af26-decd9d3c9eb8": {
@@ -4509,7 +4465,6 @@
         "4c4f8dd8-36e9-484a-9347-5d83e5bde37e": "C?",
         "4d2ec648-06f5-4d22-9399-aacf21f23782": "44",
         "4f9fd007-2fff-4cc2-bc17-230457764b6b": "28",
-        "56fe26db-a545-4a31-9d2e-260f3d61748e": "45",
         "5726b9a0-4135-497d-bdd0-d44523fa37ac": "37",
         "59ed4e0d-1ebe-46a9-872e-25218a845b52": "U?",
         "59f4a7ba-7cf9-466f-9a26-dcfe34857f99": "13",
