@@ -529,7 +529,9 @@
                 "1d29bd03-e092-4b71-a993-da3ff8c78042/ec903730-89f4-4f2e-91c8-f0ca6f514f4a": {
                     "custom_direction": "bidirectional",
                     "custom_name": "",
-                    "pin_names": [],
+                    "pin_names": [
+                        "bb4bb488-8cd0-5079-9672-764ea34a5f1a"
+                    ],
                     "use_custom_name": false,
                     "use_primary_name": false
                 },
@@ -613,6 +615,9 @@
                 "1d29bd03-e092-4b71-a993-da3ff8c78042/e8ef56f5-88d1-443a-b3c9-4c859cc7d374": {
                     "net": "f252c554-5389-4c7e-84d2-b2b89fbfbd47"
                 },
+                "1d29bd03-e092-4b71-a993-da3ff8c78042/ec903730-89f4-4f2e-91c8-f0ca6f514f4a": {
+                    "net": "2ab68f87-f140-44d4-8afb-7437936d1075"
+                },
                 "1d29bd03-e092-4b71-a993-da3ff8c78042/f80e0a42-e3c1-4271-bc0a-7ff9907f540f": {
                     "net": "61e713e7-4888-49da-9af9-470163d3447d"
                 },
@@ -678,7 +683,7 @@
             "group": "00000000-0000-0000-0000-000000000000",
             "part": "12c5b98e-d055-441d-ad02-760adde0cc1a",
             "pin_names": {},
-            "refdes": "R24",
+            "refdes": "R25",
             "tag": "be8497f2-30ad-4764-a0ff-57222e131ca6",
             "value": ""
         },
@@ -780,7 +785,7 @@
             "group": "7d47d875-3282-462c-9d2e-e180be07a114",
             "part": "b7b8c397-4217-4c22-a1a8-98ce614471d5",
             "pin_names": {},
-            "refdes": "R37",
+            "refdes": "R38",
             "tag": "fcdcc95c-436b-4cc0-86a4-689d1313fe4d",
             "value": ""
         },
@@ -812,6 +817,24 @@
             "pin_names": {},
             "refdes": "U3",
             "tag": "29850f6e-f985-4166-87e0-4b4171474a32",
+            "value": ""
+        },
+        "31f9a7db-5b56-4007-996d-e76f75f0464c": {
+            "alt_pins": {},
+            "connections": {
+                "48af78e5-730e-44eb-977a-cf188e4fcb39/6a44037c-65e2-4876-9359-42890048841d": {
+                    "net": "67781e51-5640-48bd-b4b5-5fc6e0206e6d"
+                },
+                "48af78e5-730e-44eb-977a-cf188e4fcb39/dda0ec99-5d70-4fbe-a8db-897542e7554e": {
+                    "net": "2ab68f87-f140-44d4-8afb-7437936d1075"
+                }
+            },
+            "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "311f1d5c-1579-4ac7-9c75-1e9dfd1e8dfd",
+            "pin_names": {},
+            "refdes": "R24",
+            "tag": "6a7e1a53-5d60-4542-9f1a-146cfcd01f68",
             "value": ""
         },
         "336030e7-7706-42e4-a8db-b850dcbc5eb4": {
@@ -1025,7 +1048,7 @@
             "group": "00000000-0000-0000-0000-000000000000",
             "part": "12c5b98e-d055-441d-ad02-760adde0cc1a",
             "pin_names": {},
-            "refdes": "R30",
+            "refdes": "R31",
             "tag": "e988dc79-d957-47b2-b722-7c6b84f6298c",
             "value": ""
         },
@@ -1214,7 +1237,7 @@
             "group": "00000000-0000-0000-0000-000000000000",
             "part": "bcb78c55-f274-4829-b9c3-669c494f5de7",
             "pin_names": {},
-            "refdes": "R28",
+            "refdes": "R29",
             "tag": "3647a97f-8d8b-4883-b50f-1af7a9e5afa9",
             "value": ""
         },
@@ -1451,7 +1474,7 @@
             "group": "00000000-0000-0000-0000-000000000000",
             "part": "12c5b98e-d055-441d-ad02-760adde0cc1a",
             "pin_names": {},
-            "refdes": "R25",
+            "refdes": "R26",
             "tag": "e988dc79-d957-47b2-b722-7c6b84f6298c",
             "value": ""
         },
@@ -1525,6 +1548,27 @@
             "pin_names": {},
             "refdes": "C18",
             "tag": "a4e64f1b-861f-4fa9-bf58-1a87a592007c",
+            "value": ""
+        },
+        "5cc315f2-b120-4d48-9628-d1fb6be78f34": {
+            "alt_pins": {},
+            "connections": {
+                "6dce85e8-6b70-44ac-8ae8-d17152c3707a/074c3718-08fd-4f94-88fc-2bb43174b245": {
+                    "net": "67781e51-5640-48bd-b4b5-5fc6e0206e6d"
+                },
+                "6dce85e8-6b70-44ac-8ae8-d17152c3707a/4887ef47-94f0-4fd1-b552-c424bd37a3e7": {
+                    "net": "ca2d7647-6232-4b1d-ae6d-609c8d17bdaa"
+                },
+                "6dce85e8-6b70-44ac-8ae8-d17152c3707a/eb63ac9a-5d7e-42e2-92ea-a140a97f47d0": {
+                    "net": "2ab68f87-f140-44d4-8afb-7437936d1075"
+                }
+            },
+            "entity": "c135130c-0663-4575-9083-3b328ac00c90",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "4b0a908b-c5cd-48ba-a6df-6a144fa30cfc",
+            "pin_names": {},
+            "refdes": "Q2",
+            "tag": "78667037-f7d5-4078-a0aa-eb8226ed21e1",
             "value": ""
         },
         "5cd07568-096b-4467-b999-addd33c416de": {
@@ -1704,7 +1748,7 @@
             "group": "f77e82e8-cf7b-4ced-b8e6-a5ee19e5009d",
             "part": "648ed53e-c21c-4d66-969c-375adfe2bd7c",
             "pin_names": {},
-            "refdes": "R32",
+            "refdes": "R33",
             "tag": "fcdcc95c-436b-4cc0-86a4-689d1313fe4d",
             "value": ""
         },
@@ -1740,7 +1784,7 @@
             "group": "7d47d875-3282-462c-9d2e-e180be07a114",
             "part": "648ed53e-c21c-4d66-969c-375adfe2bd7c",
             "pin_names": {},
-            "refdes": "R39",
+            "refdes": "R40",
             "tag": "2b389793-87fd-49ba-b306-86b967ea39e2",
             "value": ""
         },
@@ -1776,7 +1820,7 @@
             "group": "7d47d875-3282-462c-9d2e-e180be07a114",
             "part": "215c0b91-dd75-4ccf-9e4d-8b70d8f4ebae",
             "pin_names": {},
-            "refdes": "R38",
+            "refdes": "R39",
             "tag": "fcdcc95c-436b-4cc0-86a4-689d1313fe4d",
             "value": ""
         },
@@ -1831,7 +1875,7 @@
             "group": "00000000-0000-0000-0000-000000000000",
             "part": "bcb78c55-f274-4829-b9c3-669c494f5de7",
             "pin_names": {},
-            "refdes": "R27",
+            "refdes": "R28",
             "tag": "3647a97f-8d8b-4883-b50f-1af7a9e5afa9",
             "value": ""
         },
@@ -1945,7 +1989,7 @@
             "group": "aa19cf93-b8d2-45a5-ab4c-e5a9693641b8",
             "part": "648ed53e-c21c-4d66-969c-375adfe2bd7c",
             "pin_names": {},
-            "refdes": "R36",
+            "refdes": "R37",
             "tag": "2b389793-87fd-49ba-b306-86b967ea39e2",
             "value": ""
         },
@@ -2245,7 +2289,7 @@
             "group": "00000000-0000-0000-0000-000000000000",
             "part": "bcb78c55-f274-4829-b9c3-669c494f5de7",
             "pin_names": {},
-            "refdes": "R26",
+            "refdes": "R27",
             "tag": "3647a97f-8d8b-4883-b50f-1af7a9e5afa9",
             "value": ""
         },
@@ -2545,7 +2589,7 @@
             "group": "00000000-0000-0000-0000-000000000000",
             "part": "12c5b98e-d055-441d-ad02-760adde0cc1a",
             "pin_names": {},
-            "refdes": "R31",
+            "refdes": "R32",
             "tag": "be8497f2-30ad-4764-a0ff-57222e131ca6",
             "value": ""
         },
@@ -2563,7 +2607,7 @@
             "group": "f77e82e8-cf7b-4ced-b8e6-a5ee19e5009d",
             "part": "648ed53e-c21c-4d66-969c-375adfe2bd7c",
             "pin_names": {},
-            "refdes": "R34",
+            "refdes": "R35",
             "tag": "2b389793-87fd-49ba-b306-86b967ea39e2",
             "value": ""
         },
@@ -2846,7 +2890,7 @@
             "group": "00000000-0000-0000-0000-000000000000",
             "part": "bcb78c55-f274-4829-b9c3-669c494f5de7",
             "pin_names": {},
-            "refdes": "R29",
+            "refdes": "R30",
             "tag": "3647a97f-8d8b-4883-b50f-1af7a9e5afa9",
             "value": ""
         },
@@ -2864,7 +2908,7 @@
             "group": "aa19cf93-b8d2-45a5-ab4c-e5a9693641b8",
             "part": "648ed53e-c21c-4d66-969c-375adfe2bd7c",
             "pin_names": {},
-            "refdes": "R35",
+            "refdes": "R36",
             "tag": "fcdcc95c-436b-4cc0-86a4-689d1313fe4d",
             "value": ""
         },
@@ -3223,7 +3267,7 @@
             "group": "f77e82e8-cf7b-4ced-b8e6-a5ee19e5009d",
             "part": "648ed53e-c21c-4d66-969c-375adfe2bd7c",
             "pin_names": {},
-            "refdes": "R33",
+            "refdes": "R34",
             "tag": "fcdcc95c-436b-4cc0-86a4-689d1313fe4d",
             "value": ""
         },
@@ -3327,7 +3371,7 @@
                     "net": "12326e31-a040-4cb3-99fc-f0312d8b552c"
                 },
                 "efb1a118-b02e-4fc2-b5ee-03b9383ceb24/7e25510f-2d6f-4f44-ab22-d9ecde2bf797": {
-                    "net": null
+                    "net": "ca2d7647-6232-4b1d-ae6d-609c8d17bdaa"
                 },
                 "efb1a118-b02e-4fc2-b5ee-03b9383ceb24/8b746225-0147-44aa-9f5b-9f9cd84c9058": {
                     "net": "df6c346e-7b57-4c63-a5d9-219856cc05a9"
@@ -3593,6 +3637,15 @@
             "is_power": false,
             "name": "HDMI_D1-",
             "net_class": "3548829a-9103-4fd0-9688-0ef8688dfe63",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "2ab68f87-f140-44d4-8afb-7437936d1075": {
+            "is_port": false,
+            "is_power": false,
+            "name": "CEC",
+            "net_class": "1eda3577-92f3-420a-8002-793867047df0",
             "port_direction": "bidirectional",
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
@@ -4272,6 +4325,15 @@
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
         },
+        "ca2d7647-6232-4b1d-ae6d-609c8d17bdaa": {
+            "is_port": false,
+            "is_power": false,
+            "name": "HDMI_CEC",
+            "net_class": "1eda3577-92f3-420a-8002-793867047df0",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
         "ca8893b2-0d2a-4fe5-9a64-1b9d1dca5bfc": {
             "is_port": false,
             "is_power": false,
@@ -4474,6 +4536,7 @@
         "5c6d7ac8-2b46-4812-865e-18aa04f5a832": "10",
         "5d332d1f-39c4-4bfe-a048-ebb6982fd485": "11",
         "5f0ad027-23c8-438f-b81f-fe9264b1cbea": "12",
+        "6a7e1a53-5d60-4542-9f1a-146cfcd01f68": "45",
         "6d298c5e-77c7-40a6-aa4b-f5898683b1a5": "11",
         "6f891d8a-9c5e-4b04-bfc3-2547e91ce1f6": "6",
         "74d42644-80f5-4e6d-9be8-7eea20d727c1": "0",
