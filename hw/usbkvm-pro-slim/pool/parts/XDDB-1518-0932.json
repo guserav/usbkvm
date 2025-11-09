@@ -1,0 +1,107 @@
+{
+    "MPN": [
+        false,
+        "XDDB-1518-0932"
+    ],
+    "datasheet": [
+        false,
+        "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308251121_Lian-Xin-Technology-XDDB-1518-0932_C7498158.pdf"
+    ],
+    "description": [
+        false,
+        "VGA Connector"
+    ],
+    "entity": "4185ad20-9f25-405a-b48d-378d9b646085",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "119d0537-c907-47df-87fb-cc2edc49d584": "C7498158"
+    },
+    "package": "52e78947-61f3-4af9-b7c5-d177a1311890",
+    "pad_map": {
+        "22a8454e-bc3a-44b1-96ad-8b98334ca975": {
+            "gate": "93799942-b841-45ad-a1a6-e73a73b4c542",
+            "pin": "56e016c4-f654-4d16-afad-3b6eabe442d0"
+        },
+        "3405529a-7030-4dc8-9dae-9007144a5515": {
+            "gate": "93799942-b841-45ad-a1a6-e73a73b4c542",
+            "pin": "6304d6d8-754e-4d80-851a-fff6292ec2db"
+        },
+        "363aa21c-877b-4385-a132-3f6c789ab38f": {
+            "gate": "93799942-b841-45ad-a1a6-e73a73b4c542",
+            "pin": "2c51a654-ea91-460a-8fa9-f22678bd33e3"
+        },
+        "39ceaee3-ae34-445a-8774-994a3f2523bc": {
+            "gate": "93799942-b841-45ad-a1a6-e73a73b4c542",
+            "pin": "364527c2-064b-4829-a18a-2d7719e65092"
+        },
+        "400ed741-c9bb-4a91-b9f7-2639a0679c62": {
+            "gate": "93799942-b841-45ad-a1a6-e73a73b4c542",
+            "pin": "78833f81-220d-48ac-9dfb-fb968138c7e8"
+        },
+        "5fffdca6-dd44-45c6-978a-cbaad5e53b75": {
+            "gate": "93799942-b841-45ad-a1a6-e73a73b4c542",
+            "pin": "2af098f2-565c-4920-b408-060eae3d8a9a"
+        },
+        "654d310d-0ebe-4d70-9e0d-812b3253af51": {
+            "gate": "93799942-b841-45ad-a1a6-e73a73b4c542",
+            "pin": "8c3a351a-070d-4de3-b354-96f09834f366"
+        },
+        "6eb37483-0609-4114-b4a0-d0d12e0e3eba": {
+            "gate": "93799942-b841-45ad-a1a6-e73a73b4c542",
+            "pin": "15288131-c891-4e25-9553-684ef833aa1b"
+        },
+        "73daec00-4c6b-4f1f-aa14-8a27f2813e31": {
+            "gate": "93799942-b841-45ad-a1a6-e73a73b4c542",
+            "pin": "15565fa2-75eb-4ea9-9729-02319416214f"
+        },
+        "7e15e520-dcab-4422-8157-ad4eaf337883": {
+            "gate": "93799942-b841-45ad-a1a6-e73a73b4c542",
+            "pin": "1e26ba76-cfab-4fb1-9bba-b2ee40376e33"
+        },
+        "84698f0a-cbfa-4190-bac4-247462d978fa": {
+            "gate": "93799942-b841-45ad-a1a6-e73a73b4c542",
+            "pin": "65ee1350-8943-4a9a-a48d-d235be9213b4"
+        },
+        "918ba41b-9beb-42b5-a6b0-9b31f4c70080": {
+            "gate": "93799942-b841-45ad-a1a6-e73a73b4c542",
+            "pin": "f0754c68-efe3-4403-b164-e0b5f5eed237"
+        },
+        "9439e363-e207-4f26-9c80-627ce374cde5": {
+            "gate": "93799942-b841-45ad-a1a6-e73a73b4c542",
+            "pin": "7d8ab18c-a0d1-424e-be3d-ef008814b748"
+        },
+        "bba0b137-fba3-4778-bbd1-47c8073b3c46": {
+            "gate": "93799942-b841-45ad-a1a6-e73a73b4c542",
+            "pin": "b868862e-5635-45a3-808b-ed68efb11515"
+        },
+        "c1effc1b-f9f4-4c5c-8adb-3a62a7678c8e": {
+            "gate": "93799942-b841-45ad-a1a6-e73a73b4c542",
+            "pin": "7871cf03-523e-4941-8caf-6dd061abc6ce"
+        },
+        "ef12a44a-64a8-4d20-85b1-418a638ac737": {
+            "gate": "93799942-b841-45ad-a1a6-e73a73b4c542",
+            "pin": "2af098f2-565c-4920-b408-060eae3d8a9a"
+        },
+        "f53c705a-36f5-435c-8a88-df8e35024dc8": {
+            "gate": "93799942-b841-45ad-a1a6-e73a73b4c542",
+            "pin": "7500a3bc-3c0a-4f16-b7f2-4649804ca445"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "d-sub"
+    ],
+    "type": "part",
+    "uuid": "a0bc13f0-c72a-479f-ba32-bba066048b2a",
+    "value": [
+        false,
+        ""
+    ]
+}
