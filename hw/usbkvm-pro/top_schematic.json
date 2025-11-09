@@ -18645,11 +18645,11 @@
         }
     },
     "title_block_values": {
-        "author": "Lukas K.",
-        "date": "2024",
+        "author": "Lukas K. / Erik Z.",
+        "date": "2025",
         "project_name": "usbkvm-pro",
-        "project_title": "usbkvm pro",
-        "rev": "2"
+        "project_title": "usbkvm pro slim",
+        "rev": "3"
     },
     "type": "schematic_block",
     "uuid": "3d446d77-de65-42c6-8dc0-aa00d263b15b",
